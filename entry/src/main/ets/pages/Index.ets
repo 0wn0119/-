@@ -26,7 +26,7 @@ struct Index {
 
 
       Row(){
-        Text(what+'xianzai ')
+        Text(what+'xianzai aadsfasf')
       }
     }
 
